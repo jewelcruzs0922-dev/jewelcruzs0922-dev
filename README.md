@@ -1,4 +1,4 @@
-# Hi, I'm Jewel 👋
+# Hi, I'm Jewel 
 
 Frontend developer and web designer from the Philippines. I build fast, accessible, production-minded web apps with **Next.js, React, and TypeScript** — and I care a lot about performance, SEO, and the details users never see.
 
