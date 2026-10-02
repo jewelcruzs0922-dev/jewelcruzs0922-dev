@@ -5,7 +5,7 @@ Frontend developer and web designer from the Philippines. I build fast, accessib
 - 🌐 Portfolio — [portfolio-flame-eta-50.vercel.app](https://portfolio-flame-eta-50.vercel.app/)
 - 📧 Email — jewelcruzs0922@gmail.com
 - 💻 GitHub — [@jewelcruzs0922-dev](https://github.com/jewelcruzs0922-dev)
-- 📄 [Resume (PDF)](https://www.dropbox.com/scl/fi/1f4ooia878igvhvrjyurx/resume.pdf?rlkey=gpr36ciyarzjfk394h1il4kuq&st=ndk5owvj&dl=1)
+- 📄 [Resume (PDF)](https://github.com/jewelcruzs0922-dev/Portfolio/raw/main/public/resume.pdf)
 
 <!-- Add your LinkedIn when ready: - 💼 LinkedIn — https://linkedin.com/in/your-handle -->
 
@@ -17,8 +17,8 @@ Frontend developer and web designer from the Philippines. I build fast, accessib
 | **Redwood Retreats** | A-frame cabin rental site with a custom canvas grass animation and SSR-safe particles. Multi-filter listings, gallery lightbox, reservation demo. 41 tests. | [live](https://redwood-retreats.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/redwood-retreats) |
 | **Cosmic Ray Solar** | Multi-page solar installer site with a cart, quote estimator, blog, and 6 generated city pages. 59 unit tests + Playwright, CI, offline caching. | [live](https://cosmicray-solar.netlify.app) · [code](https://github.com/jewelcruzs0922-dev/cosmicray-solar) |
 | **Emerald Garden** | Bonsai storefront: 10 SSG product pages, server-priced checkout, atomic stock reservation, bespoke design system. 57 Playwright tests, WCAG AA audit. | [live](https://emerald-garden.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/emerald-garden) |
-| **HIRO** | E-bike landing page: three-bike configurator, slide-over cart, simulated checkout. 37 unit + 16 Playwright tests, axe WCAG A/AA in CI, Lighthouse 95. | [live](https://hiro-gray.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/HIRO) |
-| **TagPricePH** | Filipino price comparison and tracking (Shopee, Lazada, TikTok): price drops, email alerts, admin console, Neon Postgres. 20+ verification suites covering data trust, security, performance and mobile. | [live](https://tagpriceph.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/TagPricePH) |
+| **HIRO** | E-bike landing page: three-bike configurator, slide-over cart, simulated checkout. 48 unit tests + Playwright e2e, axe checks in GitHub Actions CI, Lighthouse 95. | [live](https://hiro-azurite2.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/HIRO) |
+| **TagPricePH** | Filipino price comparison platform: comparison UI, typo-tolerant search, price-history charts, token-gated admin on Neon Postgres (14 migrations). Marketplace adapters fail closed until an authorized feed is connected. 20 verification suites. | [live](https://tagpriceph.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/TagPricePH) |
 
 ## Toolbox
 
