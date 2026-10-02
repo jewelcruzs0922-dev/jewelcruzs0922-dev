@@ -24,8 +24,6 @@ Frontend developer and web designer from the Philippines. I build fast, accessib
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Framer Motion` · `Canvas API` · `Vitest` · `Playwright` · `Sanity`
 
-**AI-assisted workflow:** Claude Code / similar tools for scaffolding, refactoring, and debugging — verified with real tests before ship.
-
 ## A bit more
 
 - I hold myself to **Core Web Vitals, WCAG AA, and strict TypeScript** by default.
