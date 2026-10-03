@@ -9,6 +9,16 @@ Frontend developer and web designer from the Philippines. I build fast, accessib
 
 <!-- Add your LinkedIn when ready: - 💼 LinkedIn — https://linkedin.com/in/your-handle -->
 
+<p align="center">
+  <a href="https://portfolio-flame-eta-50.vercel.app/"><img src="assets/portfolio.jpg" width="140" alt="Portfolio — slide-based personal site" /></a>
+  <a href="https://redwood-retreats.vercel.app"><img src="assets/redwood.jpg" width="140" alt="Redwood Retreats — cabin rental platform" /></a>
+  <a href="https://cosmicray-solar.netlify.app"><img src="assets/cosmic.jpg" width="140" alt="Cosmic Ray Solar — installer site with cart" /></a>
+  <a href="https://emerald-garden.vercel.app"><img src="assets/emerald.jpg" width="140" alt="Emerald Garden — bonsai storefront" /></a>
+  <a href="https://hiro-azurite2.vercel.app"><img src="assets/hiro.jpg" width="140" alt="HIRO — e-bike landing page" /></a>
+  <a href="https://tagpriceph.vercel.app"><img src="assets/tagprice.jpg" width="140" alt="TagPricePH — price comparison platform" /></a>
+  <a href="https://computeph.vercel.app"><img src="assets/computeph.jpg" width="140" alt="ComputePH — Philippine calculators" /></a>
+</p>
+
 ## Featured projects
 
 | Project | What it is | Links |
@@ -19,6 +29,7 @@ Frontend developer and web designer from the Philippines. I build fast, accessib
 | **Emerald Garden** | Bonsai storefront: 10 SSG product pages, server-priced checkout, atomic stock reservation, bespoke design system. 57 Playwright tests, WCAG AA audit. | [live](https://emerald-garden.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/emerald-garden) |
 | **HIRO** | E-bike landing page: three-bike configurator, slide-over cart, simulated checkout. 48 unit tests + Playwright e2e, axe checks in GitHub Actions CI, Lighthouse 95. | [live](https://hiro-azurite2.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/HIRO) |
 | **TagPricePH** | Filipino price comparison platform: comparison UI, typo-tolerant search, price-history charts, token-gated admin on Neon Postgres (14 migrations). Marketplace adapters fail closed until an authorized feed is connected. 20 verification suites. | [live](https://tagpriceph.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/TagPricePH) |
+| **ComputePH** | Philippine salary and work calculators — 13th month pay, overtime, night differential. 12 calculator pages, 274 unit tests. | [live](https://computeph.vercel.app) · [code](https://github.com/jewelcruzs0922-dev/ComputePH) |
 
 ## Toolbox
 
