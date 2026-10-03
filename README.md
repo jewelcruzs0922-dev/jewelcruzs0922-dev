@@ -3,11 +3,10 @@
 Frontend developer and web designer from the Philippines. I build fast, accessible, production-minded web apps with **Next.js, React, and TypeScript** — and I care a lot about performance, SEO, and the details users never see.
 
 - 🌐 Portfolio — [portfolio-flame-eta-50.vercel.app](https://portfolio-flame-eta-50.vercel.app/)
+- 💼 LinkedIn — [linkedin.com/in/jewel-cruz-396834439](https://www.linkedin.com/in/jewel-cruz-396834439)
 - 📧 Email — jewelcruzs0922@gmail.com
 - 💻 GitHub — [@jewelcruzs0922-dev](https://github.com/jewelcruzs0922-dev)
 - 📄 [Resume (PDF)](https://github.com/jewelcruzs0922-dev/Portfolio/raw/main/public/resume.pdf)
-
-<!-- Add your LinkedIn when ready: - 💼 LinkedIn — https://linkedin.com/in/your-handle -->
 
 <p align="center">
   <a href="https://portfolio-flame-eta-50.vercel.app/"><img src="assets/portfolio.jpg" width="140" alt="Portfolio — slide-based personal site" /></a>
