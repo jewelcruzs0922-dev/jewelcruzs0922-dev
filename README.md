@@ -32,7 +32,7 @@ Frontend developer and web designer from the Philippines. I build fast, accessib
 
 ## Toolbox
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Framer Motion` · `Canvas API` · `Vitest` · `Playwright` · `Sanity`
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Shopify` · `Liquid` · `Framer Motion` · `Canvas API` · `Vitest` · `Playwright`
 
 ## A bit more
 
